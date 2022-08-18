@@ -1,0 +1,2 @@
+# ResultOfIoTDataAnalysisUsingAdaptiveApproach
+Screenshots of result of repository named IoTDataAnalysisUsingAdaptiveApproach 
